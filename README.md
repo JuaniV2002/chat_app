@@ -1,6 +1,7 @@
 # Chat app
 
-This Chat app will allow users to sign up or login through an authentication screen and then chat with other users. This app is channel-based and with push notifications enabled (pleas read [here]()).
+This Chat app will allow users to sign up or login through an authentication screen and then chat with other users. This app is channel-based and with push notifications enabled (please read below).
+
 ## Important note
 
 Since this app uses external packages like an image picker, Firebase and Firestore, depending on your target platform, you should do some extra steps to make it work. Visit this links to know more:
